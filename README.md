@@ -16,7 +16,7 @@ Mahasiswa diharapkan dapat mengimplementasikan berbagai komponen seperti navbar,
 
 # INPUT
 
-![gambar1](screenshot/code 0.png)
+![gambar1](screenshot/code_0.png)
 
 ### Step 2 Menambahkan Navbar Bootstrap 
 

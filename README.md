@@ -16,25 +16,25 @@ Mahasiswa diharapkan dapat mengimplementasikan berbagai komponen seperti navbar,
 
 # INPUT
 
-![gambar1](screenshot/code0.png)
+![gambar1](screenshot/code 0.png)
 
 ### Step 2 Menambahkan Navbar Bootstrap 
 
 # INPUT
 
-![gambar2](screenshot/code1.png)
+![gambar2](screenshot/code 1.png)
 
 ### Step 3 Tambahkan Layout Grid (Main Content & Sidebar)
 
 # INPUT
 
-![gambar3](screenshot/code2.png)
+![gambar3](screenshot/code 2.png)
 
 ### Step 4 Menambahkan Heading Section (3 Kolom Card)
 
 # INPUT
 
-![gambar4](screenshot/code3.png)
+![gambar4](screenshot/code 3.png)
 
 ### Hasil Tampilan
 
